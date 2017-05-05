@@ -1,6 +1,3 @@
-	
-	alert(resultat);
-	
 	function calculer() {
 		let un = document.getElementById('a').value;
 		let deux = document.getElementById('b').value;	
